@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1AFC7F62-4F57-4147-9201-08FAAACF77F1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC9022A-BE1E-411F-812C-B1A7F50D1B84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task2mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AC9022A-BE1E-411F-812C-B1A7F50D1B84 - fd9d90dc53df4b04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task2mainViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task2mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1287">
+               </Location>
+               <Location
+                  uuid = "9AC9022A-BE1E-411F-812C-B1A7F50D1B84 - 293881eed8a2eec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, __C.UIColor) -&gt; () in TabBar_hw_7_7_.Task2mainViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task2mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEAC4D12-2911-421B-BDB7-971D3E754647"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task2mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "Task3mainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - a06ae30886192a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.color.getter : __C.UIColor"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - 5dae04f0ea2afe22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.color.setter : __C.UIColor"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - 64f62982c5cba489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.color.modify : __C.UIColor"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - 8633e0022c877755"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.color.modify : __C.UIColor with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - 4739db0aa6f309b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TabBar_hw_7_7_.Task3mainViewController"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "F31C90DD-DA8F-45DC-A208-77C78EC417D6 - 3c427fefc5d4af0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TabBar_hw_7_7_.Task3mainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TabBar_hw_7_7_.Task3mainViewController&gt;"
+                  moduleName = "TabBar(hw 7.7)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/annakulieshova/Desktop/playground/Projects/TabBar(hw%207.7)/TabBar(hw%207.7)/Task3mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CB32E7B-F803-4C79-BAFF-F288959B29B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14FA625E-B7B5-448F-A8D7-2A45C0317CD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "green(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31B8B3AD-9F39-415F-A720-9ABD9CC73DEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "yellow(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF18028B-12DB-47CF-B294-D504A9580C51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "purple(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "037E9C47-12FB-487E-BC81-97850957362F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TabBar(hw 7.7)/Task3mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "purple(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
